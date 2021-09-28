@@ -15,3 +15,5 @@ Then: add a new variable for the port {
 }
 Then: Heroku login
 Next: Heroku create
+
+git push heroku master
