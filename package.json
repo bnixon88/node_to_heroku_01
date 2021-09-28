@@ -1,0 +1,19 @@
+{
+  "name": "node_to_heroku_01",
+  "version": "14.17.6",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnixon88/node_to_heroku_01.git"
+  },
+  "author": "Bradley Nixon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bnixon88/node_to_heroku_01/issues"
+  },
+  "homepage": "https://github.com/bnixon88/node_to_heroku_01#readme"
+}
